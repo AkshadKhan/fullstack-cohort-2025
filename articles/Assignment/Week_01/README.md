@@ -1,3 +1,3 @@
 ## My Hashnode Articles  
-- [Serialization & Deserialization: Teleporting a Human!](https://your-hashnode-url.com/article-link)  
+- [Serialization & Deserialization: Teleporting a Human!](https://the-tech-blog.hashnode.dev/serialization-deserialization-teleporting-a-human)  
 
