@@ -23,7 +23,7 @@
 
 * to construct and initialize objects of a class we need constructor.
 * By default a default constructor is created by the js if no constructor is created explicitly (Default Constructor).
-* e.g. class Person{
+* e.g. class Person{   
           // statements
        }     
        const p = new Person()
@@ -53,6 +53,14 @@ Object -> __proto__
 
 * keyword to inherit property of one class into other.
 
+
+
+# DOM
+
+* Document Object Model
+
+## Window 
+* allows interaction with browser's window
 
 # References 
 

@@ -11,9 +11,8 @@ const obj2 = {
     lname: "jwala",
 };
 
-obj2.__proto__ = obj1
-// obj1.__proto__ = null
-console.log(obj2.toString())
+obj2.__proto__ = obj1 //now line 19 will work 
+
 // DRY - Do not repeat yourself
 
 console.log(obj1.getFullName())
